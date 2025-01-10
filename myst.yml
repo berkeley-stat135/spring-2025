@@ -10,8 +10,8 @@ project:
     content: CC-BY-4.0
   github: https://github.com/berkeley-stat135/spring-2025
   # bibliography: []
-  jupyter:
-    lite: true
+  #jupyter:
+  #  lite: true
   #thebe:
   #  lite: true
     #local:
